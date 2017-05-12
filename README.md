@@ -1,2 +1,0 @@
-# trackr
-small pixel tracker
